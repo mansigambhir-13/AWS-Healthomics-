@@ -1,0 +1,8 @@
+{
+  "aws_account_id": "842387632939",
+  "aws_region": "eu-north-1",
+  "omics_job_role_arn": "arn:aws:iam::842387632939:role/OmicsUnifiedJobRole",
+  "workshop_bucket": "aws-genomics-static-eu-north-1/omics-workshop",
+  "output_bucket": "omics-output-eu-north-1-842387632939",
+  "timestamp": "20251014T152103"
+}
